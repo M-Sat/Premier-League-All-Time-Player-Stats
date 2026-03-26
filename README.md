@@ -91,7 +91,5 @@ After that, you can freely filter and explore the dataset.
 ---
 
 ## Screenshot
-
-
----
+![Main UI](screenshot.jpg)
 
