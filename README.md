@@ -1,4 +1,4 @@
-# ⚽ Premier League All-Time Player Stats App
+# Premier League All-Time Player Stats App
 
 A modern desktop application built with **Python (Tkinter)** that allows users to explore, filter, and analyze Premier League player statistics using real-time data from an online API.
 
