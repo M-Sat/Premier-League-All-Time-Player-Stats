@@ -4,6 +4,10 @@ A modern desktop application built with **Python (Tkinter)** that allows users t
 
 ---
 
+![Main UI](screenshot.jpg)
+
+---
+
 ## Overview
 
 This project provides an interactive GUI for retrieving and analyzing football player data, including appearances, goals, assists, and more. It features a clean dark-themed interface, dynamic filtering, and data persistence using CSV files.
@@ -73,14 +77,6 @@ The application is designed with usability and performance in mind, making it ea
 
 ---
 
-## Usage
-
-Run the application:
-
-```bash
-python main.py
-```
-
 ### First-time setup:
 
 1. Click **"Update IDs"** to fetch player IDs
@@ -89,7 +85,4 @@ python main.py
 After that, you can freely filter and explore the dataset.
 
 ---
-
-## Screenshot
-![Main UI](screenshot.jpg)
 
